@@ -11,10 +11,14 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "markdown": "^0.5.0",
     "node": "^24.15.0",
     "react": "^19.2.5",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.5",
+    "react-markdown": "^10.1.0",
     "react-router-dom": "^7.14.2",
     "react-select": "^5.10.2"
   },
